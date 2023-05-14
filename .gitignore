@@ -4,7 +4,6 @@
 node_modules/
 
 #Ignored files
-.htaccess
 .DS_Store
 Thumbs.db
 desktop.ini
